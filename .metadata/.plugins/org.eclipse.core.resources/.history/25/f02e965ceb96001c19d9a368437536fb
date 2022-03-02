@@ -1,0 +1,15 @@
+package com.singleton.singleton;
+
+public class Singleton {
+
+	 public static void main(String[] args) {
+		 static ABC obj1 = new ABC();
+	 }
+}
+
+class ABC {
+	
+	static ABC obj = new ABC();
+	
+	
+}

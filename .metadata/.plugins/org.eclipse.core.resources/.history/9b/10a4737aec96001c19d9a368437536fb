@@ -1,0 +1,14 @@
+package com.singleton.singleton;
+
+public class Singleton {
+
+	 public static void main(String[] args) {
+	
+		 SingletonClass obj1 = new SingletonClass();
+	 }
+}
+
+
+	
+	
+

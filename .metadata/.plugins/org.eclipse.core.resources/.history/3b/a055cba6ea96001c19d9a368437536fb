@@ -1,0 +1,22 @@
+package com.singleton.singleton;
+
+public class Singleton {
+
+	private static Singleton obj =new Singleton();
+
+	// private constructor to force use of
+	// getInstance() to create Singleton object
+	private Singleton() {
+	}
+
+	
+
+	public static void main(String[] args) {
+		Singleton instance3 = new Singleton();
+		
+	
+		System.out.println("instance3 hashCode:- " + instance3.hashCode());
+		
+	}
+
+}

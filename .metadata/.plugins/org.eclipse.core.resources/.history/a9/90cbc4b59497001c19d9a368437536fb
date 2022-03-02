@@ -1,0 +1,6 @@
+package com.behavioral.observer;
+
+public class Channel {
+
+	private List<Su>
+}

@@ -1,0 +1,17 @@
+package com.singleton.singleton;
+
+public class SingletonClass {
+
+	private static SingletonClass obj;
+
+	public SingletonClass() {
+
+	}
+
+	public static SingletonClass getInstance() {
+		if (obj == null)
+			obj = new SingletonClass();
+		return obj;
+
+	}
+}

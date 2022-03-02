@@ -1,0 +1,20 @@
+package com.structural.adapter;
+
+import java.util.Arrays;
+
+public class Test {
+
+	public static void main(String[] args) {
+	  listView lv;
+	  
+	  lv = findViewById(R.id.lv);
+	  
+	  String[] values = {"C,","JAVA", "Test"};
+	  
+	  ArrayAdapter adapter = new ArrayAdapter(this,android.R.layout.SimpleList,Arrays.asList(values));
+	  
+	  lv.setAdapter(adapter);
+
+	}
+
+}

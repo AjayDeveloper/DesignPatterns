@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="com.singleton.singleton.Singleton"/>
+    <fullyQualifiedTypeName name="com.singleton.singleton.SingletonClass"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.structural.adapter.PenAdapter"/>
+    <fullyQualifiedTypeName name="com.structural.adapter.Pen"/>
+    <fullyQualifiedTypeName name="com.structural.adapter.AssignmentWork"/>
+    <fullyQualifiedTypeName name="com.structural.adapter.PilotPen"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.behavioral.observer.Channel"/>
+    <fullyQualifiedTypeName name="com.behavioral.observer.Subscriber"/>
+</qualifiedTypeNameHistroy>

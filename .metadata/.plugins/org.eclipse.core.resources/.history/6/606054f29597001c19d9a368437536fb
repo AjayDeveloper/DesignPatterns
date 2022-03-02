@@ -1,0 +1,18 @@
+package com.behavioral.observer;
+
+public class YouTube {
+
+	public static void main(String[] args) {
+
+		Channel ch = new Channel();
+		
+		Subscriber s1 = new Subscriber("Aasif");
+		Subscriber s2 = new Subscriber("UdayKumar");
+		Subscriber s3 = new Subscriber("Ajay");
+		Subscriber s4 = new Subscriber("Deepak");
+		Subscriber s5 = new Subscriber("Anoop");
+		
+		
+	}
+
+}
